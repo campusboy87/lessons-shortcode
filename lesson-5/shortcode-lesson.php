@@ -8,7 +8,7 @@
 
 
 /**
- * Контенты шоткод - динамичная версия (доработанная)
+ * Контентый шоткод - динамичная версия (доработанная)
  */
 add_shortcode( 'quote', 'show_quote' );
 function show_quote( $atts, $content, $tag ) {
